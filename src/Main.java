@@ -4,8 +4,9 @@ import java.util.Scanner;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-
+        //integer buat kalkulator
         int num1, num2;
+        String a = "aziz";
 
         Scanner itung = new Scanner(System.in);
         System.out.println("Masukan angka:");
